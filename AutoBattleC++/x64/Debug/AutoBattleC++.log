@@ -1,0 +1,26 @@
+﻿  AutoBattleC++.cpp
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.h(3,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+  BattleField.cpp
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.h(3,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+D:\Trabalho\Kokku\Git\AutoBattleC++\BattleField.cpp(17,51): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+D:\Trabalho\Kokku\Git\AutoBattleC++\BattleField.cpp(40,17): warning C4552: '<<': o resultado da expressão não é usado
+D:\Trabalho\Kokku\Git\AutoBattleC++\BattleField.cpp(65,79): warning C4312: 'conversão de tipo': conversão de 'int' para 'Types::CharacterClass *' de tamanho maior
+D:\Trabalho\Kokku\Git\AutoBattleC++\BattleField.cpp(96,47): error C2039: ' get': não é um membro de 'Character'
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.h(6): message : consulte a declaração de 'Character'
+D:\Trabalho\Kokku\Git\AutoBattleC++\BattleField.cpp(97,47): error C2039: ' get': não é um membro de 'Character'
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.h(6): message : consulte a declaração de 'Character'
+  Character.cpp
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.h(3,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.cpp(10,1): error C2512: 'Types::GridBox': nenhum construtor padrão apropriado disponível
+D:\Trabalho\Kokku\Git\AutoBattleC++\Types.h(6,12): message : consulte a declaração de 'Types::GridBox'
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.cpp(49,28): error C2039: ' get': não é um membro de 'Character'
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.h(6): message : consulte a declaração de 'Character'
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.cpp(58,45): error C2039: ' get': não é um membro de 'Character'
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.h(6): message : consulte a declaração de 'Character'
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.cpp(76,50): error C2039: ' get': não é um membro de 'Character'
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.h(6): message : consulte a declaração de 'Character'
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.cpp(87,45): error C2039: ' get': não é um membro de 'Character'
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.h(6): message : consulte a declaração de 'Character'
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.cpp(98,50): error C2039: ' get': não é um membro de 'Character'
+D:\Trabalho\Kokku\Git\AutoBattleC++\Character.h(6): message : consulte a declaração de 'Character'
+  Gerando Código...

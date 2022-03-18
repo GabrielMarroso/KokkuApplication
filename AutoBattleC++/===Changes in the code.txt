@@ -1,0 +1,12 @@
+= Character.h - line 30 - fixed sintaxe adding std::vector
+
+= BattleField.cpp - Line 39 to 54 - Added Conversion String to int and playerClass variable
+
+= BattleField.cpp - Line 85 - Character *EnemyCharacter = new Character(enemyClass);
+
+= As I was progressing through some error fixing in the Auto Battle project,
+  I realized I did't have the expertise to clean all of the code. So I started
+  digging knowledge and from C++ courses in order to understand where were
+  my flaws. Meanwhile, I started my own project (see console RPG folder) to learn 
+  more about how to develop a console RPG game where I implemented character creation,
+  load, save and character sheet functionalities.

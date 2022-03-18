@@ -1,0 +1,11 @@
+﻿  Character.cpp
+D:\Trabalho\Kokku\Git\AutoBattleC++\ConsoleRPG\ConsoleRPG\Character.cpp(95,13): warning C4552: '-': o resultado da expressão não é usado
+  ConsoleRPG.cpp
+  Game.cpp
+D:\Trabalho\Kokku\Git\AutoBattleC++\ConsoleRPG\ConsoleRPG\Game.cpp(79,41): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  Inventory.cpp
+  Item.cpp
+  main.cpp
+D:\Trabalho\Kokku\Git\AutoBattleC++\ConsoleRPG\ConsoleRPG\main.cpp(5,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Gerando Código...
+  ConsoleRPG.vcxproj -> D:\Trabalho\Kokku\Git\AutoBattleC++\ConsoleRPG\x64\Debug\ConsoleRPG.exe
